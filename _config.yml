@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jorge Díaz-Ramírez / Site Title"
+title                    : "Jorge Díaz-Ramírez"
 title_separator          : "-"
 name                     : &name "Jorge Díaz-Ramírez"
 description              : &description "personal description"
