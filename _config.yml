@@ -85,7 +85,7 @@ author:
   bio              : "Assistant Professor at the @UTarapaca, Iquique-Chile, investigating topics related to #datamining and #deeplearning"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=Obt0vO4AAAAJ&hl"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
