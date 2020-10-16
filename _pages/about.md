@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m a AAssistant Professor at University Tarapaca, affiliated at Engineering and Technology Department - Engineering School.
+Hello! I’m a Assistant Professor at University Tarapaca, affiliated at Engineering and Technology Department - Engineering School.
 
 Research interests
 
