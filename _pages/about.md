@@ -12,7 +12,7 @@ Hello! I’m a Assistant Professor at <a href="https://twitter.com/UTarapaca">Un
 
 Research interests
 
-My current research field areabout Machine Learning and Deep Learning.
+My current research field are about Machine Learning and Deep Learning.
 
 
 UNDER CONSTRUCTION...
