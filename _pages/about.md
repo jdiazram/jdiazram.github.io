@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m a Assistant Professor at University Tarapaca, affiliated at Engineering and Technologys Department - Engineering School, and currently I’m Doctoral student in Engineering Sciences in the Computer Science area from @dccuc and [@ialab_uc](https://twitter.com/IALab_UC)
+Hello! I’m a Assistant Professor at University Tarapaca, affiliated at Engineering and Technologys Department - Engineering School, and currently I’m Doctoral student in Engineering Sciences in the Computer Science area from @dccuc and <a href="https://twitter.com/IALab_UC">@ialab_uc</a>
 
 Research interests
 
