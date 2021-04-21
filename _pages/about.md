@@ -13,3 +13,6 @@ Hello! I’m a Assistant Professor at University Tarapaca, affiliated at Enginee
 Research interests
 
 My current research field is Machine Learning and Deep Learning.
+
+
+UNDER CONSTRUCTION...
