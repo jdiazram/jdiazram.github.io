@@ -17,4 +17,4 @@ My current research field are about Machine Learning and Deep Learning.
 
 NEWS
 
-[28/04/2021]: First version online
+[28/04/2021]: First online version 
