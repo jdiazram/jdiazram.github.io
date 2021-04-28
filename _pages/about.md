@@ -15,4 +15,5 @@ Research interests
 My current research field are about Machine Learning and Deep Learning.
 
 
-UNDER CONSTRUCTION...
+NEWS
+[28/04/2021]: First version online
